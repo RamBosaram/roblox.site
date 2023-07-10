@@ -1,0 +1,71 @@
+div {
+
+    padding: 10px
+}
+
+span {
+
+    font-size: 23px;
+
+    color: green
+}
+
+img {
+    object-fit: cover;
+    border-radius: 50px
+
+
+}
+
+
+.spider {
+
+    margin: 40px;
+filter: saturate(1) drop-shadow(8px 8px 6px rgba(0, 0, 0, 0.329))
+
+
+}
+
+
+.adopt{
+
+    margin: 40px;
+filter: saturate(1) drop-shadow(8px 8px 6px rgba(0, 0, 0, 0.329))
+
+
+
+}
+
+.mm2{
+
+    margin: 40px;
+filter: saturate(1) drop-shadow(8px 8px 6px rgba(0, 0, 0, 0.329))
+
+
+
+}
+
+.rbx{
+
+    margin: 40px;
+filter: saturate(1) drop-shadow(8px 8px 6px rgba(0, 0, 0, 0.329))
+
+
+}
+
+.roblox{
+
+    margin: 40px;
+filter: saturate(1) drop-shadow(8px 8px 6px rgba(0, 0, 0, 0.329))
+
+
+
+}
+
+.rblx {
+
+    margin: 40px;
+filter: saturate(1) drop-shadow(8px 8px 6px rgba(0, 0, 0, 0.329))
+
+
+}
